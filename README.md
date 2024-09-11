@@ -4,23 +4,22 @@
 
 
 
-# Що робить програма?
-Цей проект реалізує базові операції на TypeScript, включаючи арифметичні функції, роботу з масивами, класами, асинхронними операціями та замиканнями. Він також демонструє роботу з об'єктами, інтерфейсами, рекурсією та різними методами обробки даних. Програма містить приклади обчислень, маніпуляцій з масивами та об'єктами, а також роботу з промісами та асинхронними функціями.
+# What is this program?
+This project implements basic TypeScript operations, including arithmetic functions, working with arrays, classes, asynchronous operations, and closures. It also demonstrates working with objects, interfaces, recursion, and various data manipulation techniques. The program contains examples of calculations, manipulations with arrays and objects, as well as work with promises and asynchronous functions.
 
 
 
-# Опис роботи:
-### Функції:
-1) sum(a: number, b: number): number – повертає суму двох чисел.
-2) multiply(a: number, b: number): number – повертає добуток двох чисел.
-3) isEven(num: number): boolean – перевіряє, чи є число парним.
-4) isOdd(num: number): boolean – перевіряє, чи є число непарним.
-5) greet(name: string): string – повертає привітання з переданим ім'ям.
-
+# Job description:
+### Functions:
+1) sum(a: number, b: number): number – returns the sum of two numbers.
+2) multiply(a: number, b: number): number – returns the product of two numbers.
+3) isEven(num: number): boolean – checks if the number is even.
+4) isOdd(num: number): boolean – checks if the number is odd.
+5) greet(name: string): string – returns a greeting with the giv
 
 **Масиви:**
-*   `numbers `: масив чисел від 1 до 10.
-*   `evens`: масив парних чисел, отриманих з масиву numbers.
-*   `odds`: масив непарних чисел.
-*   `evens `: масив, у якому кожне число з масиву numbers помножено на 2.
+* `numbers `: an array of numbers from 1 to 10.
+* `evens`: an array of even numbers obtained from the numbers array.
+* `odds`: array of odd numbers.
+* `evens `: an array in which each number from the numbers array is multiplied by 2.
  
